@@ -13,6 +13,8 @@ And I wanted to give this todo app another shot to see if I can write it moar be
 Big improvement in speed and understanding over last time. And I wrote it in 47 minutes this time.
 
 
+![Screenshot](screenshot.png "Screenshot")
+
 ----
 Boostrapped with create-react-app
 
