@@ -7,6 +7,15 @@ It's a simple todo list that lets you add items to a list stored in your browser
 
 
 
+----
+----
+----
+----
+
+# Below this point is all Bootstrapping info
+
+
+
 
 
 
